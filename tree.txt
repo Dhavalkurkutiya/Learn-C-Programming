@@ -1,0 +1,112 @@
+.
+├── C
+│   ├── 01_ Whay-toLearn-C.c
+│   ├── 02_What-is-coding-C-programing.c
+│   ├── 03_Install-vscode.c
+│   ├── 04_Basic-Structure-of-C.c
+│   ├── 05_ Basic-Syntax-fo-C-Program.c
+│   ├── 06_Variableand-Datatype-For-C.c
+│   ├── 07_Opretors-in-C.c
+│   ├── 08_Exercise-1 Multiplication Table.c
+│   ├── 09_Formet-Specifiers-and-Escape-Sequence.c
+│   ├── 10_If Else Control Statment.c
+│   ├── 11_Switch Case Cantrol Statment.c
+│   ├── 12_Loop In C Language.c
+│   ├── 13_Do-while loop in c.c
+│   ├── 14_While loop in C.c
+│   ├── 15_For loop in C.c
+│   ├── 16_Break and Continue Statement.c
+│   ├── 17_Go to Statment in C.c
+│   ├── 18_Typecasting in c.c
+│   ├── 19_Function in c.c
+│   ├── 20_Excercise-1 Multiplication table Solutions.c
+│   ├── 21_Recursive Function in c.c
+│   ├── 22_Exercise-2 Unit and Conversation.c
+│   ├── 23_Array in c.c
+│   ├── 24_Exercise-2 Unit Conversation Solution.c
+│   ├── 25_Exercise-3 On Recursan .c
+│   ├── 26_Pointers in .c
+│   ├── 27_Aarry and Pointer Arithmetic.c
+│   ├── 28_Excercise-3 Solutions Recursive.c
+│   ├── 29_Is Recursive Olways Good.c
+│   ├── 30_Exercise-4 Printing Star Pattern.c
+│   ├── 31_Call by value and Call by Reference in c.c
+│   ├── 32_Parsing array in function in c.c
+│   ├── 33_Exercise-4 Printing star patearn.c
+│   ├── 34_Strings in c.c
+│   ├── 35_String Function in c.c
+│   ├── 36_Exercise-5  Arry Reverse in c.c
+│   ├── 37_Structure in c.c
+│   ├── 38_Typedef in c.c
+│   ├── 39_Unions in c.c
+│   ├── 40_Exercise-5 Solutions Arry Reverse in c.c
+│   ├── 41_Exercise-6 HTML Parser in c.c
+│   ├── 42_Static variable in c.c
+│   ├── 43_Exercise-6 HTML Parser Solutions in c.c
+│   ├── 44_Exercise-7 Travel Agency Manager in c.c
+│   ├── 45_Dynamic Memory Allocation in c.c
+│   ├── 46_Exercise-7  Solutions Travel Agency Manager in c.c
+│   ├── 47_Daynamic Memory Allocation in c.c
+│   ├── 48_Exercise-8 Employees Manager.c
+│   ├── 49_Storage class Auto  Extern Static register in c.c
+│   ├── 50_Exercise-8 Solution Employees manager.c
+│   ├── 51_Exercise-9 Rock Pepar Scissors in c.c
+│   ├── 52_Void Pointer in c.c
+│   ├── 53_Null Pointer in c.c
+│   ├── 54_Dangling Pointer In c.c
+│   ├── 55_Wild pointer in c.c
+│   ├── 56_Exercise-9 Rock Paper  Scissros Solution in c.c
+│   ├── 57_Exercise-10 Matrix Multiplication in c.c
+│   ├── 58_C Pre Proceser in c.c
+│   ├── 59_ Pre Proceser Include and define.c
+│   ├── 60_Pre difined Macros.c
+│   ├── 61_Exercise-10 Solution Matrix Multiplication in c.c
+│   ├── 62_File io in c.c
+│   ├── 63_Exercise-11 Check Palindrome in c.c
+│   ├── 64_Function io in c.c
+│   ├── 65_Exercise-11 Solution Check Palindrome in c.c
+│   ├── 66_Exercise-12 Automatic recipe ganreter.c
+│   ├── 67_Files modes fgets, fputs, fgetc, fputc.c
+│   ├── 68_ Command Line argument.c
+│   ├── 69_Exercise-12 Solve Automatic recipe ganreter.c
+│   ├── 70_Command line  arguments.c
+│   ├── 71_Exercise-13 Command Line Calculator In C.c
+│   ├── 72_Function Pointers In C.c
+│   ├── 73_Callback Functions Using Function Pointers In C.c
+│   ├── 74_Exercise-14 Area of the Circle Using Function Pointers.c
+│   ├── 75_Memory Leak In C.c
+│   ├── 76_Exercise-14 Area of Circle In C  Solution.c
+│   ├── love.txt
+│   ├── main.c
+│   └── new.c
+├── Exercise & Solutions
+│   ├── 01_Excercise_1 in C.c
+│   ├── 02_Excercise_2 Multiplication table.c
+│   ├── 03_Exercise_3 Unit Conversation.c
+│   ├── 04_Excercise_3 Solutions Recursive.c
+│   ├── 05_Exercise_5 HTML Parser.c
+│   ├── 06_Exercise_6  Travel Agency Manager.c
+│   ├── 07_Exercise_7 Employees manager.c
+│   ├── 08_Exercise_8 Rock Paper  Scissros.c
+│   ├── 09_Exercise_9 Matrix Multiplication.c
+│   ├── 10_Exercise_10 Check Palindrome.c
+│   ├── 11_Exercise-12 Solve Automatic recipe ganreter.c
+│   ├── 12_Exercise-13 Command Line Calculator In C.c
+│   └── 13_Exercise-14 Area of Circle In C  Solution.c
+├── Project for Beginners
+│   ├── Automatic recipe ganreter.c
+│   ├── Command Line Calculator In C.c
+│   ├── Employees manager.c
+│   ├── HTML Parser.c
+│   ├── Love Calculator(Use For Entertainment Purpose) .c
+│   ├── Palindrome Checking Progarm.c
+│   ├── Rock Paper  Scissros Game.c
+│   ├── Traveller Agency Manager in c.c
+│   └── Unit Conversation Solution.c
+├── README.md
+├── img
+│   ├── DhavalKurkutiya.png
+│   └── c-img.png
+└── tree.txt
+
+4 directories, 105 files
